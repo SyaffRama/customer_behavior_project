@@ -71,35 +71,30 @@ The project simulates real-world data analyst tasks and highlights the ability t
 
 # Dashboard Overview
 The Power BI dashboard includes:
-- Key Performance Indicators (KPIs)
-- Time-series trend analysis
-- Category and performance breakdowns
-- Interactive slicers for data exploration
+  - Key Performance Indicators (KPIs)
+  - Time-series trend analysis
+  - Category and performance breakdowns
+  - Interactive slicers for data exploration
 <img width="1343" height="729" alt="PBI_DASHBOARD" src="https://github.com/user-attachments/assets/a9a0ba2b-5cd1-41d4-af42-c5e57d1c8ac2" />
 
 # Key Results and Insights
-- Identified key trends and performance drivers
-- Improved data reliability through structured cleaning
-- Delivered insights suitable for business and stakeholder decisions
-- Demonstrated strong analytical and visualization skills
+  - Identified key trends and performance drivers
+  - Improved data reliability through structured cleaning
+  - Delivered insights suitable for business and stakeholder decisions
+  - Demonstrated strong analytical and visualization skills
 
 # How to Run the Project
 1. Clone the repository:
-git clone https://github.com/your-username/your-repository-name.git
-
+  - git clone https://github.com/SyaffRama/customer_behavior_project.git
 2. Install dependencies:
-pip install pandas numpy matplotlib seaborn
-
+  - pip install pandas numpy matplotlib seaborn
 3. Run the Jupyter Notebook for EDA and data cleaning.
-
 4. Load the cleaned dataset into PostgreSQL.
-
 5. Execute SQL scripts for analysis.
-
 6. Open the Power BI file and refresh the data connection.
 
 # Why This Project Matters
-- Reflects real-world data analyst responsibilities
-- Demonstrates proficiency in Python, SQL, and Power BI
-- Shows ability to communicate insights to non-technical stakeholders
-- Portfolio-ready and recruiter-friendly
+  - Reflects real-world data analyst responsibilities
+  - Demonstrates proficiency in Python, SQL, and Power BI
+  - Shows ability to communicate insights to non-technical stakeholders
+  - Portfolio-ready and recruiter-friendly
