@@ -1,9 +1,10 @@
 # Data Analyst Portfolio Project | Python, SQL, Power BI
-**Project Summary**
 
-This project showcases an end-to-end data analytics workflow using Python, SQL (PostgreSQL), and Power BI. It demonstrates practical skills in data cleaning, exploratory data analysis (EDA), SQL querying, dashboard development, and business reporting.
+# Project Summary
 
-The project simulates real-world data analyst tasks and highlights the ability to transform raw data into actionable insights for business decision-making.
+This project presents an end-to-end data analytics workflow that turns raw transactional data into clear, business-relevant insights. Beyond technical execution, it focuses on understanding customer behavior, identifying revenue drivers, and supporting strategic decisions related to marketing, customer retention, and product performance.
+
+By combining data preparation, analysis, and visualization, the project reflects real-world analyst responsibilities, demonstrating the ability to communicate insights to stakeholders, align analysis with business goals, and translate data findings into actionable recommendations.
 
 
 # Business Objective
@@ -97,4 +98,3 @@ The Power BI dashboard includes:
   - Reflects real-world data analyst responsibilities
   - Demonstrates proficiency in Python, SQL, and Power BI
   - Shows ability to communicate insights to non-technical stakeholders
-  - Portfolio-ready and recruiter-friendly
